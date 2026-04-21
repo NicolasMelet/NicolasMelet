@@ -28,10 +28,10 @@ I like C++, I even have it on my computer
 > A full from-scratch emulation of a Wii U console (built along with 2 other great Dev). Reimplementation of a PowerPC instruction set in a C++ interpreter with Vulkan based graphics.
 
 <a href="https://github.com/Robouch0/rtype">
-<img src="https://img.shields.io/badge/WemuEmulator-Wii%20U%20Emulator%20%7C%20C%2B%2B%20%7C%20PowerPC-0f766e?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/RType-C%20%7C%20ECS-0f766e?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </a>
 
-> This project was made in third year at Epitech. It implements a multi-threaded server and a graphical client for a video game called R-Type, using a game engine of our own design.
+> This project was made in third year at Epitech. It implements a multi-threaded server and a graphical client for a video game called R-Type, using a game engine of our own design based on an Entity Component System.
 
 ## Tech stack
 
@@ -55,5 +55,7 @@ I like C++, I even have it on my computer
 
 ## How to join me
 I swear I don't bite<br>
+I also speak french (which might be normal considering I *am* french)<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nicolas--melet-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-melet/)
 [![Email](https://img.shields.io/badge/Email-nicolas.melet6@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nicolas.melet6@gmail.com)
