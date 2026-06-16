@@ -2,7 +2,7 @@
   
 # Nicolas Mélet 🫡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1500&center=true&width=435&lines=5th+year+%40Epitech+%7C+%40Chung-Ang;Software+%7C+%7C+Fullstack+%7C+Devops;I+even+create+video+games+sometimes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1500&center=true&width=435&lines=5th+year+%40Epitech+%7C+%40Chung-Ang;Software+%7C+Fullstack+%7C+Devops;I+even+create+video+games+sometimes)](https://git.io/typing-svg)
 <br>
 
 **Low-level Software Engineer** who likes to optimize everything<br>
